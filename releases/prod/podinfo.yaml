@@ -15,4 +15,4 @@ spec:
     ref: master
   values:
     image: stefanprodan/podinfo:0.4.11
-    replicaCount: 3
+    replicaCount: 2
