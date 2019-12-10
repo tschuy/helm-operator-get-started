@@ -15,6 +15,6 @@ spec:
     ref: master
   values:
     image: stefanprodan/podinfo:dev-hdtwcel9
-    replicaCount: 1
+    replicaCount: 3
     hpa:
       enabled: false
